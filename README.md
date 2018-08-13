@@ -1,2 +1,2 @@
 # newTecnology
-Maven,Docker, github, jetty - testing
+Project java with docker plugin with archetype maven
